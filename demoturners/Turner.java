@@ -1,6 +1,5 @@
 package demoturners;
 
-public interface ITurner {
+public interface Turner {
     void turn();
-
 }

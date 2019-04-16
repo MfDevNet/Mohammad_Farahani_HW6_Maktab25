@@ -1,7 +1,6 @@
 package demoturners;
 
-public class Pancake implements ITurner {
-
+public class Pancake implements Turner {
     @Override
     public void turn() {
         System.out.println("Display Flipping");
